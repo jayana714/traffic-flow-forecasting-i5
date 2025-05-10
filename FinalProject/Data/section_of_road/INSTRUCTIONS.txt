@@ -22,23 +22,23 @@ Mainline sensors have all 4 variables.
 location Coordinates were gathered using the relevant map from PeMS, finding the same location on google maps (using surrounding streets to specify location), and then fetching the coordinates of the predicted position. "Mainline" or "On Ramp" is from PeMS and refers to the specific road location. I believe Mainline simply refers to the main highway through LA? In particular, we are looking at I5-North (maybe South too?), for only district 7 (which is the LA area)
 
 ```
-715898 - 33.880149, -118.021730 - Mainline
-715901 - 33.883681, -118.027733 - On Ramp
-762355 - 33.883681, -118.027733 - Off Ramp - Map location same as 715901
-716899 - 33.883681, -118.027733 - Mainline - Map location same as 715901, perhaps an array of sensors in one station
-716900 - 33.887208, -118.033784 - Mainline
-715903 - 33.887208, -118.033784 - On Ramp - Same location as 716900
-762353 - 33.890681, -118.040822 - Mainline
-775012 - 33.892658, -118.044406 - Mainline
-716904 - 33.894742, -118.048204 - Mainline
-716903 - 33.894742, -118.048204 - Off Ramp - Same location as 716904
-715905 - 33.894742, -118.048204 - On Ramp - Same location as 716904
-718358 - 33.897164, -118.052409 - Mainline
-769625 - 33.900495, -118.058289 - Mainline
-769626 - 33.900495, -118.058289 - Off Ramp - Same location as 769625
-762357 - 33.905090, -118.065005 - Off Ramp
-718081 - 33.905090, -118.065005 - Mainline - Same location as 762357
-718360 - 33.907708, -118.067623 - Mainline
+715898 - 33.880183, -118.021787 - Mainline - 3 weeks
+715901 - 33.8834  , -118.027451 - On Ramp
+762355 - 33.8834  , -118.027451 - Off Ramp - Map location same as 715901 - 3 weeks
+716899 - 33.8834  , -118.027451 - Mainline - Map location same as 715901 - 3 weeks
+716900 - 33.886992, -118.034125 - Mainline - 3 weeks
+715903 - 33.886992, -118.034125 - On Ramp - Same location as 716900 - 3 weeks
+762353 - 33.890697, -118.041009 - Mainline - 3 weeks
+775012 - 33.892607, -118.044468 - Mainline - 3 weeks
+716904 - 33.894587, -118.048098 - Mainline - 3 weeks
+716903 - 33.894587, -118.048098 - Off Ramp - Same location as 716904 - 3 weeks
+715905 - 33.894587, -118.048098 - On Ramp - Same location as 716904 - 3 weeks
+718358 - 33.896767, -118.052213 - Mainline - 3 weeks
+769625 - 33.900806, -118.059282 - Mainline - 3 weeks
+769626 - 33.900806, -118.059282 - Off Ramp - Same location as 769625 - 3 weeks
+762357 - 33.905186, -118.065055 - Off Ramp - 3 weeks
+718081 - 33.905186, -118.065055 - Mainline - Same location as 762357 - 3 weeks
+718360 - 33.907717, -118.067667 - Mainline - 3 weeks
 ```
 
 All in all, these stations are spread across about 3 miles (3.01 miles as measured by google maps), as the bird flies, along I5-N

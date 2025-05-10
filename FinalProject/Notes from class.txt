@@ -1,0 +1,5 @@
+Expand to 2 or 3 weeks for daily prediction - Maybe not necessary? Daily trend seems consistently, maybe check various times of the year?
+
+maybe compare LSTM and XGBoost
+
+Check PeMS, how did I get the coordinates?
