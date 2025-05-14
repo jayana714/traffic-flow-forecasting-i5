@@ -7,7 +7,7 @@ This notebook trains separate models for each lane, evaluates accuracy using RMS
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - **Data Loading**: Import and preprocess data from multiple stations.
 - **Visualization**: Generate comparative plots to identify trends and anomalies.
@@ -25,7 +25,7 @@ This notebook trains separate models for each lane, evaluates accuracy using RMS
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Ensure the following dependencies are installed:
 
