@@ -39,8 +39,8 @@ Ensure the following dependencies are installed:
   - `xgboost`
   - `geopandas`
   - `contextily`
-  - `scikit-learn
-  - 'scipy`
+  - `scikit-learn`
+  - `scipy`
 
 
 Install dependencies using:
