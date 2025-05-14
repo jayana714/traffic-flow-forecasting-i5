@@ -45,7 +45,7 @@ Ensure the following dependencies are installed:
 
 Install dependencies using:
 ```bash
-pip install pandas numpy matplotlib seaborn scipy
+pip install pandas numpy matplotlib seaborn xgboost geopandas contextily scikit-learn scipy
 ```
 
 ## Usage
