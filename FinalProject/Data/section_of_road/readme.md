@@ -1,1 +1,1 @@
-[Link To Original The Data](https://csuchico.box.com/s/fi168spudehcajpwnavxjfotjobyaut6)
+[Link To The Original Data](https://csuchico.box.com/s/fi168spudehcajpwnavxjfotjobyaut6)
