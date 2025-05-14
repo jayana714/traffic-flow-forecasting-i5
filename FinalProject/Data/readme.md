@@ -1,4 +1,4 @@
-To run EDA.py:
+## To run EDA.py:
 
 install dependencies:
 ```
